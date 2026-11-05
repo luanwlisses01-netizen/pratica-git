@@ -1,0 +1,1 @@
+console.log("Arquivo JavaScript da branch teste1");
