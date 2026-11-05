@@ -1,4 +1,2 @@
-\# Prática de Git
-
-Versão: alterada na teste1
-
+# Prática de Git
+Versão: teste1 + teste2 (conflito resolvido)
